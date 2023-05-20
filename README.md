@@ -8,9 +8,7 @@
 - 💬 Ask me about **Anything that you like**
 
 - 📫 How to reach me **cfir2009@gmail.com**
-
-- 📄 Know about my experiences [Resume_Cfir_Croitoru.pdf](Resume_Cfir_Croitoru.pdf)
-
+- 
 - ⚡ Fun fact **I am quite good in sports**
 
 <h3 align="left">Connect with me:</h3>
