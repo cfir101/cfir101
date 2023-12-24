@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cfir Croitoru</h1>
-<h3 align="center">computer science student B.Sc. while working full time job as laser integration engineer at Elbit</h3>
+<h3 align="center">computer science student B.Sc. while working full time job as laser R&D integration engineer at Elbit</h3>
 <img align= "right" alt = "Coder GIF" width = "300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 - 🔭 I’m currently working on **getting my degree and finding my first job in the industry**
 
